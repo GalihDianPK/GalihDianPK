@@ -1,7 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>I'm Galih, a Computer Engineering student at Gunadarma University.<br><br>I focus on IoT development and Machine Learning, combining hardware systems with intelligent software solutions. I love experimenting with Arduino, embedded systems, and building AI-powered applications.<br><br>My goal is to create smart, efficient, and impactful technology that bridges the physical and digital world.<br><br>Currently learning:<br>- Machine Learning & AI fundamentals<br>- IoT system integration<br>- Python & C++ development<br><br>
-
-
+## 👋 About Me<br><br>I'm Galih, a Computer Engineering student at Gunadarma University.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/galihDian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/galih-dian/) 
 
