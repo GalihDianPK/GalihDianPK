@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Galih 👋 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40"/>
+
 
 I am a Computer Engineering student.
 
