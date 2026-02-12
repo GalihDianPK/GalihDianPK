@@ -1,7 +1,9 @@
 # 💫 About Me:
 I'm Galih Dian Permana Kusuma
 I am a Diploma (D3) Computer Engineering student at Gunadarma University, with a strong interest in Internet of Things (IoT) and Artificial Intelligence, especially Machine Learning.
+
 I enjoy building practical systems that combine hardware and software — from microcontroller-based projects to intelligent data-driven applications. I am passionate about automation, embedded systems, and developing smart solutions that solve real-world problems.
+
 Currently, I am continuously improving my skills in Python, C++, and AI development while exploring IoT system architecture and machine learning models.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/galihDian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/galih-dian/) 
@@ -9,5 +11,4 @@ Currently, I am continuously improving my skills in Python, C++, and AI developm
 ![](https://github-readme-stats.vercel.app/api?username=GalihDianPK&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GalihDianPK&theme=aura&hide_border=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GalihDianPK&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
