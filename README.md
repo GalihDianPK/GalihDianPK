@@ -12,12 +12,24 @@ Currently, I am continuously improving my skills in Python, C++, and AI developm
 ![](https://github-readme-stats.vercel.app/api?username=GalihDianPK&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ## 🛠 Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,arduino,figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/KiCad-Logo.svg" width="48" height="48"/>
-  <img src="https://seeklogo.com/images/C/canva-logo-7589B1D4C5-seeklogo.com.png" width="48"/>
+### 💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java" />
 </p>
 
+### 🔧 Electronics
+<p>
+<img src="https://skillicons.dev/icons?i=arduino" />
+<img src="LINK_KICAD" width="48"/>
+<img src="LINK_PROTEUS" width="48"/>
+</p>
+
+### 🎨 Design
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="LINK_CANVA" width="48"/>
+<img src="LINK_CAPCUT" width="48"/>
+</p>
+
+//seeklogo.com/
 
