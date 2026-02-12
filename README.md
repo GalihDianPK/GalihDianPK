@@ -12,20 +12,12 @@ Currently, I am continuously improving my skills in Python, C++, and AI developm
 ![](https://github-readme-stats.vercel.app/api?username=GalihDianPK&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ## 🛠 Languages and Tools
-## 🛠 Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,arduino,figma" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48"/>
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/KiCad-Logo.svg" width="48" height="48"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48"/>
-</p>
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,arduino,figma" />
+  <img src="https://cdn.simpleicons.org/capcut" width="48"/>
+  <img src="https://cdn.simpleicons.org/circuitverse" width="48"/>
+  <img src="https://cdn.simpleicons.org/kicad" width="48"/>
+  <img src="https://cdn.simpleicons.org/autodesk/F47C20" width="48"/>
 </p>
 
 
