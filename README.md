@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm Galih Dian Permana Kusuma <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
 I am a Diploma (D3) Computer Engineering student at Gunadarma University, with a strong interest in Internet of Things (IoT) and Artificial Intelligence, especially Machine Learning.
 
 I enjoy building practical systems that combine hardware and software — from microcontroller-based projects to intelligent data-driven applications. I am passionate about automation, embedded systems, and developing smart solutions that solve real-world problems.
