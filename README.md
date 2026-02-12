@@ -15,11 +15,6 @@ Currently, I am continuously improving my skills in Python, C++, and AI developm
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GalihDianPK&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalihDianPK&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
 ## 🛠 Languages and Tools
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,arduino,figma" />
