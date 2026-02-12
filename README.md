@@ -14,7 +14,6 @@ Currently, I am continuously improving my skills in Python, C++, and AI developm
 ## 🛠 Languages and Tools
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,arduino,figma" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/CapCut_logo.svg" width="48"/>
   <img src="https://cdn.simpleicons.org/circuitverse" width="48"/>
   <img src="https://cdn.simpleicons.org/kicad" width="48"/>
   <img src="https://cdn.simpleicons.org/autodesk/F47C20" width="48"/>
