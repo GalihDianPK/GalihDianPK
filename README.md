@@ -23,5 +23,4 @@ Currently, I am continuously improving my skills in Python, C++, and AI developm
   <img src="https://cdn.simpleicons.org/autodesk/F47C20" width="48"/>
 </p>
 
-try to testing
 
