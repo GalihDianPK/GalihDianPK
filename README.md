@@ -15,9 +15,6 @@ Currently, I am continuously improving my skills in Python, C++, and AI developm
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<img width="866" height="618" alt="image" src="https://github.com/user-attachments/assets/23be8c12-cb87-410a-a576-aad0572426f8" />
-
-
 ## 🛠 Languages and Tools
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,arduino,figma" />
